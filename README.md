@@ -1,2 +1,0 @@
-# apego
-Projeto integrador - DH 

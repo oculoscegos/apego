@@ -1,0 +1,1 @@
+O ApêGo é uma plataforma wweb que tem como objetivo contribuir para a comunicação entre moradores e administradores de condomínios.

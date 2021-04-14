@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "dev":"npx ./node_modules/nodemon/bin/nodemon.js ./bin/www"
+    "dev": "nodemon ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
@@ -16,5 +16,17 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oculoscegos/apego.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oculoscegos/apego/issues"
+  },
+  "homepage": "https://github.com/oculoscegos/apego#readme",
+  "description": ""
 }

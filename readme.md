@@ -1,1 +1,1 @@
-O ApêGo é uma plataforma web que tem como objetivo contribuir para a comunicação entre moradores e administradores de condomínios, tornando-a mais acessível e flexível.
+Projeto Integrador Digital House Turma: 0221CDFSPCN04BRED 2021 Full Stack

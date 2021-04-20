@@ -1,1 +1,3 @@
-Projeto Integrador Digital House Turma: 0221CDFSPCN04BRED 2021 Full Stack
+## APÊGO
+
+O ApêGo é uma aplicação web que tem por objetivo contribuir para a melhoria e acessibilidade da comunicação entre moradores e administradores de condomínios.

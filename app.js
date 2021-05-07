@@ -8,6 +8,7 @@ var usersRouter = require('./src/routes/users');
 var menu  = require('./src/routes/menu');
 var mural = require('./src/routes/mural-de-avisos');
 var boletos=require('./src/routes/boletos');
+var chat=require('./src/routes/chat');
 
 
 var app = express();
@@ -27,6 +28,7 @@ app.use('/users', usersRouter);
 app.use('/menu', menu);
 app.use('/mural', mural);
 app.use('/boletos', boletos);
+app.use('/chat', chat);
 
 
 
